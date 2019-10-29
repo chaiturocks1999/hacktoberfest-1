@@ -799,3 +799,8 @@
 - Place: Delhi, India
 - Bio: - Undergraduate
 - Github: [neo700](https://github.com/neo700)
+
+#### Name: [Chaitanya kumar](https://github.com/chaiturocks1999)
+- Place: Pune, India
+- Bio: - Undergraduate
+- Github: [Chaiturocks1999](https://github.com/chaiturocks1999)
